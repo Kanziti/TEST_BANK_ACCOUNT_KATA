@@ -20,10 +20,6 @@ class BankApplicationTests {
     }
 
     @Test
-    void contextLoads() {
-    }
-
-    @Test
     void deposit_should_increase_balance() {
         BigDecimal depositAmount = BigDecimal.valueOf(100);
 

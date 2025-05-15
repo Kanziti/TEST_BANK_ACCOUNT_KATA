@@ -1,4 +1,18 @@
-# Bank account kata
+## Prerequisites
+
+- **Backend**: Java 21
+- **Frontend**: Node.js 20.18.1, Angular CLI 19
+- **Database**: H2
+
+## Setup
+
+### Backend (Java) : /backend
+API runs at http://localhost:8080
+
+### Frontend (Angular) : /frontend
+App runs at http://localhost:4200
+
+# Test assignment : Bank account kata
 
 Think of your personal bank account experience
 When in doubt, go for the simplest solution
